@@ -1,0 +1,15 @@
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.exe
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.deps.json
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.runtimeconfig.json
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.dll
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.pdb
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.AssemblyInfoInputs.cache
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.AssemblyInfo.cs
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.csproj.CoreCompileInputs.cache
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.sourcelink.json
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.dll
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\refint\ShippingQuoteApp.dll
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.pdb
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.genruntimeconfig.cache
+D:\VS Studio\Basic_C#_Programs\ShippingQuoteApp\obj\Debug\net9.0\ref\ShippingQuoteApp.dll
